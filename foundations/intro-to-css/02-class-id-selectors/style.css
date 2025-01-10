@@ -1,0 +1,19 @@
+.odd-style {
+    background-color: #FFB6C1;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.adjust {
+    font-size: 24px;
+}
+
+#first {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#second {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 600;
+}
